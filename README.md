@@ -319,7 +319,7 @@ Worked on enterprise-style backend application development using Java and Spring
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Avnish-kaushik&theme=tokyonight&no-frame=true&row=2&column=4"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Avnish-kaushik&theme=algolia&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
