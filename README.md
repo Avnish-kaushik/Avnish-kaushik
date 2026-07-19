@@ -1,261 +1,136 @@
-# <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E3A8A,100:06B6D4&text=AVNISH%20KAUSHIK&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Developer;Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Open+Source+Contributor;Building+Scalable+Software"/>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/iavnishkaushik">
-<img src="https://img.shields.io/badge/LinkedIn-iAvnishKaushik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:kaushikavi7002@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Avnish-kaushik">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/avnish_codes/">
-<img src="https://img.shields.io/badge/LeetCode-avnish__codes-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<br/><br/>
-
-![](https://komarev.com/ghpvc/?username=Avnish-kaushik&style=for-the-badge&color=0ea5e9)
-![](https://img.shields.io/github/followers/Avnish-kaushik?style=for-the-badge)
-![](https://img.shields.io/github/stars/Avnish-kaushik?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Avnish+Kaushik;MCA+Student+%7C+Software+Developer;Java+%7C+Python+%7C+JavaScript+%7C+React;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
 
 </div>
 
----
-
-# About Me
-
-Software Engineer focused on Java, Full Stack Development, Artificial Intelligence, Machine Learning, and Product Engineering.
-
-Currently pursuing MCA at KIET Group of Institutions and building expertise in scalable software systems, backend engineering, data-driven applications, and modern web technologies.
-
-### Open To
-
-- Software Engineer Roles
-- Java Developer Roles
-- Full Stack Developer Roles
-- AI / ML Engineer Roles
-- Open Source Collaboration
-
----
-
-# Tech Stack
-
-## Languages
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css" />
-</p>
-
-## Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,javascript" />
-</p>
-
-## Backend & Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,spring" />
-</p>
-
-## DevOps & Tooling
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+  <a href="https://www.linkedin.com/in/iavnishkaushik">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/avnish_codes/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:kaushikavi7002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# AI / ML Expertise
+### 👋 About Me
 
-| Domain | Proficiency | Details |
-|----------|----------|----------|
-| Machine Learning | Intermediate | Classification & Regression |
-| NLP | Intermediate | TF-IDF, Tokenization |
-| Data Analysis | Intermediate | NumPy, Pandas |
-| Visualization | Intermediate | Matplotlib |
-| Scikit-Learn | Intermediate | Model Building |
-| Prompt Engineering | Intermediate | LLM Workflows |
+- 🎓 Currently pursuing **MCA at KIET Group of Institutions** (Expected 2026)
+- 💻 Enthusiastic about **Data Structures, Algorithms & Software Development**
+- 🧑‍💻 Former **Java Developer Intern @ Codec Technologies** — built a full CRUD Employee Management System with Spring Boot & MySQL
+- 🌱 Currently exploring **React** and **Machine Learning / NLP**
+- 🎯 Looking for **Software Developer** opportunities to work on meaningful, real-world projects
+- ⚡ Fun fact: I've built everything from a fake-news classifier to a 2D fighter jet game
 
 ---
 
-# Featured Projects
+### 🛠️ Tech Stack
 
-<details>
-<summary><b>Fake News Detector</b></summary>
+**Languages**
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-Machine Learning system that classifies news articles using NLP techniques and supervised learning algorithms.
+**Web & Backend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-| Category | Details |
-|-----------|-----------|
-| Stack | Python, Scikit-Learn |
-| Performance | TF-IDF Optimized |
-| Security | Input Validation |
-| Impact | Misinformation Detection |
+**Data & ML**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
-</details>
-
-<details>
-<summary><b>Sangeet - Music Streaming Platform</b></summary>
-
-Modern music streaming frontend built with React and Tailwind CSS.
-
-| Category | Details |
-|-----------|-----------|
-| Stack | React, Tailwind CSS |
-| Performance | Optimized UI |
-| Security | Client Validation |
-| Impact | Better User Experience |
-
-</details>
-
-<details>
-<summary><b>Employee Management System</b></summary>
-
-Enterprise backend application built during Java internship.
-
-| Category | Details |
-|-----------|-----------|
-| Stack | Java, Spring Boot, MySQL |
-| Performance | Optimized CRUD APIs |
-| Security | REST Validation |
-| Impact | HR Automation |
-
-</details>
-
-<details>
-<summary><b>2D Jet Fighter Game</b></summary>
-
-Desktop game developed using Java Swing.
-
-| Category | Details |
-|-----------|-----------|
-| Stack | Java Swing |
-| Performance | Real-Time Gameplay |
-| Security | Controlled Logic |
-| Impact | Interactive Experience |
-
-</details>
+**Database & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-# Experience
+### 📌 Featured Projects
 
-## Java Developer Intern | Codec Technologies
+<table>
+<tr>
+<td width="50%">
 
-**July 2025 - August 2025**
+**🗞️ Fake News Detector**
+ML model classifying news as real/fake using Python, Scikit-learn & NLP. Improved detection accuracy by 18% using TF-IDF + logistic regression.
+`Python` `Scikit-learn` `NLP`
 
-- Developed Employee Management System
-- Built REST APIs
-- Integrated MySQL
-- Tested APIs using Postman
-- Worked with Spring Boot
+</td>
+<td width="50%">
 
-`Java` `Spring Boot` `MySQL` `REST API` `Postman`
+**🎵 Sangeet**
+Responsive music-player UI built with React & Tailwind CSS. Playlist and song management, +30% user retention.
+`React` `Tailwind CSS`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-# GitHub Analytics
+**✈️ 2D Jet Fighter Game**
+Desktop game in Java Swing with a custom sound system, collision detection & score tracking.
+`Java` `Java Swing`
 
-<div align="center">
+</td>
+<td width="50%">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avnish-kaushik&show_icons=true&theme=tokyonight&hide_border=true"/>
+**🏢 Employee Management System**
+Full CRUD APIs with Spring Boot & MySQL, cutting manual HR tasks by 60%. REST endpoints tested via Postman.
+`Spring Boot` `MySQL` `REST API`
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Avnish-kaushik&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avnish-kaushik&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avnish-kaushik&theme=tokyo-night&hide_border=true"/>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-# Contribution Snake
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Avnish-kaushik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avnish-kaushik&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://raw.githubusercontent.com/Avnish-kaushik/Avnish-kaushik/output/snake-dark.svg"/>
-
-</div>
-
----
-
-# Current Focus
-
-```yaml
-Learning:
-  - Advanced DSA
-  - System Design
-  - Spring Boot
-  - Machine Learning
-
-Building:
-  - AI Applications
-  - Full Stack Products
-  - Open Source Projects
-
-Exploring:
-  - Cloud Computing
-  - Generative AI
-  - Backend Architecture
-
-Open To:
-  - Software Engineering Roles
-  - Java Developer Roles
-  - AI Opportunities
-```
-
-# Connect
-
-<div align="center">
-
-<a href="mailto:kaushikavi7002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/iavnishkaushik">
-<img src="https://img.shields.io/badge/LinkedIn-iAvnishKaushik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/avnish_codes/">
-<img src="https://img.shields.io/badge/LeetCode-avnish__codes-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avnish-kaushik&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-<div align="center">
+### 🧩 LeetCode Stats
+<!--LEETCODE_STATS_START-->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/avnish_codes?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
+</p>
+<!--LEETCODE_STATS_END-->
 
-### Building software that solves real-world problems.
+---
 
-</div>
+### 🏆 Certifications
+- Complete Python Bootcamp — Cisco Networking Academy (Mar 2025)
+- Java OOP with Functional Programming — Udemy (Apr 2025)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,50:1E3A8A,100:06B6D4"/>
+---
+
+<!--LAST_UPDATED_START-->
+<p align="center"><sub>🔄 Last updated: 2026-07-19 09:49 UTC+5:30</sub></p>
+<!--LAST_UPDATED_END-->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Avnish-kaushik&style=flat-square&color=2E9EF7" alt="Profile views" />
+</p>
