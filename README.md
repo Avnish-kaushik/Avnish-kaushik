@@ -138,7 +138,7 @@ Full CRUD APIs with Spring Boot & MySQL, cutting manual HR tasks by 60%. REST en
 - Java OOP with Functional Programming — Udemy (Apr 2025)
 
 <!--LAST_UPDATED_START-->
-<p align="center"><sub>🔄 Last updated: 2026-08-02 07:41 UTC+5:30</sub></p>
+<p align="center"><sub>🔄 Last updated: 2026-08-03 07:43 UTC+5:30</sub></p>
 <!--LAST_UPDATED_END-->
 
 <p align="center">
