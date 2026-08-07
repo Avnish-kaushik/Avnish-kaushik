@@ -1,0 +1,13 @@
+{
+  "name": "contrib-rocket",
+  "version": "1.0.0",
+  "description": "Generates an animated rocket-flying-over-contribution-graph SVG for a GitHub profile README.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "generate": "node scripts/generate.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
