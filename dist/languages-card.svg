@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="240" viewBox="0 0 360 240">
+<defs>
+  <linearGradient id="bgfill" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#0b0f1a"/>
+    <stop offset="100%" stop-color="#05070d"/>
+  </linearGradient>
+  <style>
+    .h1{font-family:'SFMono-Regular',Consolas,Menlo,monospace;font-size:15px;fill:#e6fffb;font-weight:600;}
+    .sub{font-family:'SFMono-Regular',Consolas,Menlo,monospace;font-size:9.5px;fill:#5b6472;letter-spacing:0.5px;}
+    .big{font-family:'SFMono-Regular',Consolas,Menlo,monospace;font-size:30px;fill:#5eead4;font-weight:700;}
+    .lbl{font-family:'SFMono-Regular',Consolas,Menlo,monospace;font-size:10.5px;fill:#8b96a5;}
+    .val{font-family:'SFMono-Regular',Consolas,Menlo,monospace;font-size:11px;fill:#c9d1d9;}
+    .tiny{font-family:'SFMono-Regular',Consolas,Menlo,monospace;font-size:8.5px;fill:#3f4757;}
+  </style></defs>
+<rect x="0" y="0" width="360" height="240" rx="14" fill="url(#bgfill)" stroke="#20263a" stroke-width="1"/>
+<text x="20" y="28" class="h1">Language Mix</text>
+<text x="20" y="42" class="sub">4 TECHNOLOGIES DETECTED</text>
+<line x1="20" y1="52" x2="340" y2="52" stroke="#1c2333" stroke-width="1"/>
+<circle cx="78" cy="120" r="42" fill="none" stroke="#161d2c" stroke-width="14"/>
+<circle cx="78" cy="120" r="42" fill="none" stroke="#eab308" stroke-width="14" stroke-dasharray="137.2 126.7" stroke-dashoffset="0.0" transform="rotate(-90 78 120)" stroke-linecap="butt"/>
+<circle cx="78" cy="120" r="42" fill="none" stroke="#f97316" stroke-width="14" stroke-dasharray="79.2 184.7" stroke-dashoffset="-137.2" transform="rotate(-90 78 120)" stroke-linecap="butt"/>
+<circle cx="78" cy="120" r="42" fill="none" stroke="#ef4444" stroke-width="14" stroke-dasharray="31.7 232.2" stroke-dashoffset="-216.4" transform="rotate(-90 78 120)" stroke-linecap="butt"/>
+<circle cx="78" cy="120" r="42" fill="none" stroke="#a855f7" stroke-width="14" stroke-dasharray="15.8 248.1" stroke-dashoffset="-248.1" transform="rotate(-90 78 120)" stroke-linecap="butt"/>
+<text x="78" y="118" text-anchor="middle" class="big" font-size="20">52%</text>
+<text x="78" y="134" text-anchor="middle" class="tiny">JavaScript</text>
+<circle cx="150" cy="72" r="4" fill="#eab308"/>
+<text x="162" y="76" class="val">JavaScript</text>
+<rect x="150" y="82" width="170" height="4" rx="2" fill="#161d2c"/>
+<rect x="150" y="82" width="88.4" height="4" rx="2" fill="#eab308"/>
+<circle cx="150" cy="106" r="4" fill="#f97316"/>
+<text x="162" y="110" class="val">Java</text>
+<rect x="150" y="116" width="170" height="4" rx="2" fill="#161d2c"/>
+<rect x="150" y="116" width="51.0" height="4" rx="2" fill="#f97316"/>
+<circle cx="150" cy="140" r="4" fill="#ef4444"/>
+<text x="162" y="144" class="val">HTML</text>
+<rect x="150" y="150" width="170" height="4" rx="2" fill="#161d2c"/>
+<rect x="150" y="150" width="20.4" height="4" rx="2" fill="#ef4444"/>
+<circle cx="150" cy="174" r="4" fill="#a855f7"/>
+<text x="162" y="178" class="val">CSS</text>
+<rect x="150" y="184" width="170" height="4" rx="2" fill="#161d2c"/>
+<rect x="150" y="184" width="10.2" height="4" rx="2" fill="#a855f7"/>
+<rect x="20" y="212" width="320" height="8" rx="4" fill="#161d2c"/>
+<rect x="20.0" y="212" width="166.4" height="8" fill="#eab308"/>
+<rect x="186.4" y="212" width="96.0" height="8" fill="#f97316"/>
+<rect x="282.4" y="212" width="38.4" height="8" fill="#ef4444"/>
+<rect x="320.8" y="212" width="19.2" height="8" fill="#a855f7"/>
+</svg>

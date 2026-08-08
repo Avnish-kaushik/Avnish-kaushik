@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="150" viewBox="0 0 360 150">
+<defs>
+  <linearGradient id="bgfill" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#0b0f1a"/>
+    <stop offset="100%" stop-color="#05070d"/>
+  </linearGradient>
+  <style>
+    .h1{font-family:'SFMono-Regular',Consolas,Menlo,monospace;font-size:15px;fill:#e6fffb;font-weight:600;}
+    .sub{font-family:'SFMono-Regular',Consolas,Menlo,monospace;font-size:9.5px;fill:#5b6472;letter-spacing:0.5px;}
+    .big{font-family:'SFMono-Regular',Consolas,Menlo,monospace;font-size:30px;fill:#5eead4;font-weight:700;}
+    .lbl{font-family:'SFMono-Regular',Consolas,Menlo,monospace;font-size:10.5px;fill:#8b96a5;}
+    .val{font-family:'SFMono-Regular',Consolas,Menlo,monospace;font-size:11px;fill:#c9d1d9;}
+    .tiny{font-family:'SFMono-Regular',Consolas,Menlo,monospace;font-size:8.5px;fill:#3f4757;}
+  </style></defs>
+<rect x="0" y="0" width="360" height="150" rx="14" fill="url(#bgfill)" stroke="#20263a" stroke-width="1"/>
+<text x="20" y="28" class="h1">GitHub Stats</text>
+<text x="20" y="42" class="sub">PROFILE SIGNAL</text>
+<line x1="20" y1="52" x2="340" y2="52" stroke="#1c2333" stroke-width="1"/>
+<text x="20" y="80" class="lbl">TOTAL CONTRIBUTIONS</text>
+<text x="20" y="112" class="big">1,240</text>
+<text x="205" y="72" class="lbl">STARS</text>
+<rect x="205" y="76" width="110" height="4" rx="2" fill="#161d2c"/>
+<rect x="205" y="76" width="57.0" height="4" rx="2" fill="#2dd4bf"/>
+<text x="323" y="80" class="val">58</text>
+<text x="205" y="98" class="lbl">REPOSITORIES</text>
+<rect x="205" y="102" width="110" height="4" rx="2" fill="#161d2c"/>
+<rect x="205" y="102" width="110.0" height="4" rx="2" fill="#2dd4bf"/>
+<text x="323" y="106" class="val">112</text>
+<text x="205" y="124" class="lbl">FOLLOWERS</text>
+<rect x="205" y="128" width="110" height="4" rx="2" fill="#161d2c"/>
+<rect x="205" y="128" width="41.2" height="4" rx="2" fill="#2dd4bf"/>
+<text x="323" y="132" class="val">42</text>
+</svg>
