@@ -1,7 +1,5 @@
 <div align="center">
 
-<table> <tr> <td width="46%" valign="top"> <img src="./assets/ascii-whoami.svg" width="100%" alt="ascii portrait" /> </td> <td width="54%" valign="top"> ``` avnish@github ────────────────────────────── Now Software Developer (open to roles) Study MCA · KIET Group of Institutions · 2024–26 Stack React, Node, Java, Spring Boot, MongoDB, MySQL ``` </td> </tr> </table>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6a11cb&height=220&section=header&text=Hi%20There!%20I'm%20Avnish%20Kaushik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20MCA%20Student%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+things+with+Java+%26+Python;MCA+Student+at+KIET+Group+of+Institutions;Ex-Intern+%40+Codec+Technologies;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
@@ -24,8 +22,6 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6a11cb&height=2&width=100%" width="100%" />
-
-<p align="center"> <img src="./dist/contrib-rocket.svg" width="850" alt="animated contribution graph" /> </p>
 
 ## 🧑‍💻 About Me
 
@@ -64,7 +60,6 @@
 <td width="50%" valign="top">
 
 ### 🗞️ [Fake News Detector](https://github.com/Avnish-kaushik)
-
 ML model classifying news as real/fake using Python, Scikit-learn & NLP. Improved detection accuracy by 18% using TF-IDF + logistic regression.
 
 `Python` `Scikit-learn` `NLP`
@@ -73,7 +68,6 @@ ML model classifying news as real/fake using Python, Scikit-learn & NLP. Improve
 <td width="50%" valign="top">
 
 ### 🎵 [Sangeet](https://github.com/Avnish-kaushik)
-
 Responsive music-player UI built with React & Tailwind CSS. Playlist and song management, +30% user retention.
 
 `React` `Tailwind CSS`
@@ -84,7 +78,6 @@ Responsive music-player UI built with React & Tailwind CSS. Playlist and song ma
 <td width="50%" valign="top">
 
 ### ✈️ [2D Jet Fighter Game](https://github.com/Avnish-kaushik)
-
 Desktop game in Java Swing with a custom sound system, collision detection & score tracking.
 
 `Java` `Java Swing`
@@ -93,7 +86,6 @@ Desktop game in Java Swing with a custom sound system, collision detection & sco
 <td width="50%" valign="top">
 
 ### 🏢 Employee Management System
-
 Full CRUD APIs with Spring Boot & MySQL, cutting manual HR tasks by 60%. REST endpoints tested via Postman.
 
 `Spring Boot` `MySQL` `REST API`
@@ -146,7 +138,7 @@ Full CRUD APIs with Spring Boot & MySQL, cutting manual HR tasks by 60%. REST en
 - Java OOP with Functional Programming — Udemy (Apr 2025)
 
 <!--LAST_UPDATED_START-->
-<p align="center"><sub>🔄 Last updated: 2026-08-07 07:53 UTC+5:30</sub></p>
+<p align="center"><sub>🔄 Last updated: 2026-08-08 06:40 UTC+5:30</sub></p>
 <!--LAST_UPDATED_END-->
 
 <p align="center">
