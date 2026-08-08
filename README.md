@@ -1,109 +1,264 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=2DD4BF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Avnish+Kaushik;Full-Stack+Developer+(React+%C2%B7+Node+%C2%B7+Spring+Boot);MCA+Student+%40+KIET+Group+of+Institutions;Building+AI-integrated+web+apps" alt="Typing SVG" />
+```
+ █████╗ ██╗   ██╗███╗   ██╗██╗███████╗██╗  ██╗
+██╔══██╗██║   ██║████╗  ██║██║██╔════╝██║  ██║
+███████║██║   ██║██╔██╗ ██║██║███████╗███████║
+██╔══██║╚██╗ ██╔╝██║╚██╗██║██║╚════██║██╔══██║
+██║  ██║ ╚████╔╝ ██║ ╚████║██║███████║██║  ██║
+╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝
+
+██╗  ██╗ █████╗ ██╗   ██╗███████╗██╗  ██╗██╗██╗  ██╗
+██║ ██╔╝██╔══██╗██║   ██║██╔════╝██║  ██║██║██║ ██╔╝
+█████╔╝ ███████║██║   ██║███████╗███████║██║█████╔╝
+██╔═██╗ ██╔══██║██║   ██║╚════██║██╔══██║██║██╔═██╗
+██║  ██╗██║  ██║╚██████╔╝███████║██║  ██║██║██║  ██╗
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+```
+
+<a href="https://linkedin.com/in/iavnishkaushik">
+  <img src="https://img.shields.io/badge/LinkedIn-iavnishkaushik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Avnish-kaushik">
+  <img src="https://img.shields.io/badge/GitHub-Avnish--kaushik-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://leetcode.com/avnish_codes">
+  <img src="https://img.shields.io/badge/LeetCode-avnish__codes-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="mailto:kaushikavi7002@gmail.com">
+  <img src="https://img.shields.io/badge/Email-kaushikavi7002%40gmail.com-39D353?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+(MERN)+%7C+Java+%26+Spring+Boot;Building+REST+APIs%2C+Auth+Systems+%26+Clean+Code;Incoming+Software+Developer+%40+TCS;DSA+Enthusiast+%7C+LeetCode%3A+avnish_codes" alt="Typing SVG" />
 
 </div>
 
-<p align="center">
-  <code>avnish@github</code> ~ $ ./contributions.sh --year
-</p>
+<br>
 
-<p align="center">
-  <img src="./dist/contrib-rocket.svg" width="850" alt="animated contribution graph" />
-</p>
+Full-stack developer and MCA student building production-style web applications with **React.js, Node.js, Express.js, MongoDB**, and **Java / Spring Boot**. Comfortable across the stack — from JWT-secured REST APIs and relational/NoSQL data modeling to responsive React front ends. Currently getting ready to start as a **Software Developer at TCS**.
 
-<p align="center"><sub>🚀 rocket flies across the year and lights up each day as it passes — auto-updates daily via GitHub Actions</sub></p>
+<br>
 
-<br/>
-
-<p align="center"><code>avnish@github</code> ~ $ ./whoami.sh</p>
+## <code>$ whoami</code>
 
 <table>
 <tr>
 <td width="46%" valign="top">
-  <img src="./assets/ascii-whoami.svg" width="100%" alt="ascii portrait" />
+
+<pre>
+@@*::.     . :-------------===============+*%%%@@@#=-+##**#%###+
+@@*::.     . :-------------------=========+*@@%%%%%%%%%%%%%%%%%%
+@@*::.     . :--------------------========+*@##@@@@@@@@@@@%%%%%%
+@@*:.      . :--------------------========+*@++@@@@%%%%@@@%%####
+@@*:.      . :-----------------------=====+*%*+@@@@*+##%@@@%%%%%
+@@*:.      . :--------------=*####*++=--==+*@*+@@@@*+*#*#%@%#%@@
+@@#:.      . :-----------=*%@@@@@@@@@@#*-=+*@*+@@@@**%#:.-=+*+@@
+@@#:.      . :----------*@@@@@@@@%%%%@@@#++*@*+@@@@*#@%: -:-=-@@
++%#::..    . :---------#@@@@*+==-:...:*@@@+*@*+%@@@*#%%=-##%+*@%
+++*-=-.... ..:---------%@@%-.   ......:#@@**%######******#*#####
+%#*--=. ...  .---------+@@=-++=-::+*#*=:#@+***###%%*******####%%
+#*=--+=... .:-----------%*:+*##+-.=**+-.=*=**++*+*#+==++++***###
+%#+#**+:=--.:==---------=+::...:. ......:==*+--==+*=--=*%###%%##
+*=##%%*:-=-: :-----------+-....:+==-....+=-*+--=-=*--*%@@@@@@@@@
+%%###*##-=+-.:----------:-%=::+******=:+%-+*+--=-=*--#@@#%@@@@@@
+%%*%%%%#=:=-:-------------+@#+*==**-=**@*=+***#***#**%%@@%%@@@@@
+@#*%@#=-:::::--------------+@%%###%#%@@*-=**#@@##%*+#@@@@@@@@@@@
+*+=+#*=-:::::------------=#+=%@@@@@@@@+===*#%@@##@%-*@@@@@@@@@@@
+-  .:=+*:::::----------=*%#%#=+*####+-:@%+**#@@##@@=+@@@@@@%%%@@
+*..:-=++::----=--:-=*#%%@@@%@@#+====--*@@#%%*###*@@*=%@@@@%##%@@
+#:.:-=*+::-==-:::=*##%%@%%@@@@@@%+===*@@@@%@@%%%#*#*-*%@@@%%%@%%
+:::-=+****#*=-=*#####%%%%%%%@@@@@@#++#@@@@%%@@%@@%##*#%%%%##%#%@
+=*#####**#*-+%%%%%%%%%%%%%%%@%%@@@@#+%@@@%%%%@%%@@%%%%@@@%%%%%%@
++***#%%%@@-=#%%%%%%%%@@%@%%%%@@%%%%@%@@@%%@%%@@%@@@%@%#%%%%%%#@@
++=*@@@@@@#:*%%%%%%%%%%@@%@%%%%@@%%%@%%@%%%%%%%%%@@@@@@%#######@@
++*@@@@@@@=-#%%%%%%%%@@@@%%@%%%%@@%%@%%@@%%%%%%%%%@@@@@%#%%#**#@@
+##@@@@@@@-=#%%%%@@@@@@@@@%@@%%%%@@%@%%%@%%%%%%%%%%@@@@%%@@@%%%@@
+*.*@@@##*=+#@%@%@@@@@@@@@%%@@%%%%@%%%%@@%%%%%%%%%%@@@@%%%@@+-%@@
+#-=@@@%##**#@%@@@@@%%@@@@@%%@@%%%%%%@#%@%%%%%%%%%@@@@@@%@%#=-%@@
+-=-*@@@####*%%%%%%%%%%%@@@@%%@%%%%%%@%%@@%%%%%%%%@@@@@@@@*---=++
+:...%@@@##*#%%%%%%%%%%%%@@@@%%@%%%%%@@%%@@@%%%%%%@@@@@@@%%*+====
+##*+*@@@@@%##%%%%%@%%%%%%@@@%%%@@%%%@%%@@%@%%%%%@@@@@@@@@@@# ..:
+@@@%%@@@@@@#*%%%%%%%%%%%%@@@@%%%%@%%%%#%%@@@@@@%@@@@@@@@@@@@*...
+@@@@@@@@@@@@*#%%%%%%%%%%%%@@@@%%%%%%%@#%%%%%%%%@@@@@@@@@@@@@@##*
+@@@%%%@@@@@@%###%%%%@@%%%%@@@@@@%%%%%@@%%%%%%@@@@@@@@@@@@@@%%%@@
+@@@%%%%@@@@@@#*%@@@@@@@@@@@@@@@@@@@@@%@@%%%%@@@@@@@@@@@%####%%%@
+@@@%%%%%@@@@@%%@%%@@%%%%%%%%@@@@@@@@@@@@@#%@%%@@%@@@@%*=====+%#*
+</pre>
+
 </td>
 <td width="54%" valign="top">
 
-```
-avnish@github
-──────────────────────────────
-Now      Software Developer (open to roles)
-Study    MCA · KIET Group of Institutions · 2024–26
-Prev     BCA · DN Degree College · 2020–23
-Focus    Full-Stack + AI-integrated apps
+```yaml
+avnish@devbox:~$ neofetch
+-----------------------------------------
+OS         : Full-Stack Web Developer
+Stack      : MERN (MongoDB·Express·React·Node)
+             Java / Spring Boot
+Languages  : Java, JavaScript, Python, SQL
 
-── Stack ──────────────────────
-Frontend   React.js, JavaScript, HTML5, CSS3
-Backend    Node.js, Express.js, Java, Spring Boot
-Database   MongoDB, MySQL
-Tools      Git, GitHub Actions, Docker, Postman
+Now        : Software Developer (Incoming) @ TCS
+Prev       : Java Developer Intern @ Codec Technologies
 
-── Highlights ─────────────────
-• 3 production-style full-stack projects shipped
-• 45+ DSA problems solved on LeetCode
-• Certified: Python (Cisco) · Java OOP (Udemy)
+Education  : MCA, KIET Group of Institutions
+             2024 - 2026 | Ghaziabad, UP
+             BCA, DN Degree College
+             2020 - 2023 | Meerut, UP
+
+Focus      : REST APIs · JWT Auth · DSA
+             Clean, scalable, production-style code
+
+Certs      : Complete Python Bootcamp - Cisco (2025)
+             Java OOP + Functional Programming - Udemy
+
+DSA        : 45+ problems solved on LeetCode
+Location   : Meerut, Uttar Pradesh, India
+Shell      : git, docker, postman, vs code
 ```
 
 </td>
 </tr>
 </table>
 
-<br/>
+<br>
 
-<p align="center"><code>avnish@github</code> ~ $ ./stack.sh</p>
+## <code>$ cat tech-stack.json</code>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,py,html,css,react,nodejs,express,spring,mongodb,mysql,git,github,githubactions,docker,postman,vscode&theme=dark&perline=9" alt="Tech Stack" />
+
+</div>
+
+<br>
+
+## <code>$ ls ~/projects --sort=impact</code>
+
+<!--
+  NOTE for Avnish: update the Repo / Live badge links below so they point at
+  your actual GitHub repos and deployed Render/Vercel URLs before you share
+  this profile for TCS onboarding.
+-->
+
+### 🔹 Job Application Tracker — *Flagship Project*
+Full-stack **MERN** application to track job applications end-to-end, with secure authentication and full CRUD workflows.
+- Implemented complete **JWT authentication** (signup/login/protected routes) and role-safe session handling.
+- Built full **CRUD** operations for applications with a clean, responsive **React** front end.
+- Deployed as a two-service app — **Render** (backend/API) and **Vercel** (frontend) — with environment-based config.
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-<br/>
+[![Repo](https://img.shields.io/badge/Repository-View_Code-39D353?style=flat-square&logo=github&logoColor=white)](https://github.com/Avnish-kaushik/job-application-tracker)
+[![Live](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://job-application-tracker.vercel.app)
 
-<p align="center"><code>avnish@github</code> ~ $ ./stats.sh</p>
+<br>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Avnish-kaushik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2DD4BF&icon_color=5eead4&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avnish-kaushik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2DD4BF&text_color=c9d1d9" />
+### 🔹 AI-Powered Interview Prep Platform
+Full-stack platform (**React.js, Node.js, Express.js, MongoDB**) that uses an LLM API to generate role-specific mock interview questions and instant resume feedback.
+- Designed REST APIs for resume parsing and AI-response generation with a prompt pipeline tailored by job role and experience level.
+- Secured endpoints with **JWT authentication**; optimized response handling/caching to keep AI feedback turnaround under **2s** under concurrent load.
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avnish-kaushik&theme=tokyonight&hide_border=true&background=0d1117&ring=2DD4BF&fire=5eead4&currStreakLabel=2DD4BF" />
+[![Repo](https://img.shields.io/badge/Repository-View_Code-39D353?style=flat-square&logo=github&logoColor=white)](https://github.com/Avnish-kaushik/ai-interview-prep-platform)
+
+<br>
+
+### 🔹 Real-Time E-Commerce Platform
+Full-stack e-commerce app (**React.js, Node.js, Express.js, MongoDB**) with product search, cart, and secure checkout via **Razorpay/Stripe**.
+- Implemented real-time order tracking and notifications with **Socket.io**, plus role-based access control (customer/admin) via JWT.
+- Added **Redis** caching for high-traffic product queries, cutting average page load time by roughly **35%**.
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
 </p>
 
-<br/>
+[![Repo](https://img.shields.io/badge/Repository-View_Code-39D353?style=flat-square&logo=github&logoColor=white)](https://github.com/Avnish-kaushik/realtime-ecommerce-platform)
 
-<p align="center"><code>avnish@github</code> ~ $ ls ./projects</p>
+<br>
 
-### 🧠 AI-Powered Interview Prep Platform
-Full-stack platform (React · Node · Express · MongoDB) that uses an LLM API to generate role-specific mock interview questions and instant resume feedback. REST APIs for resume parsing + a prompt pipeline tailored by job role/experience, JWT-secured endpoints, response caching keeping average AI feedback turnaround under 2s.
+### 🔹 Enterprise Inventory & Order Management System
+**Java / Spring Boot** backend (Controller-Service-Repository architecture) managing inventory, orders, and suppliers, backed by **MySQL** via JPA/Hibernate.
+- Secured REST APIs with **Spring Security + JWT**, with role-based authorization for admin/staff users.
+- Containerized with **Docker**; unit/integration tests via **JUnit + Mockito** reaching **80%+** code coverage.
 
-### 🛒 Real-Time E-Commerce Platform
-Full-stack e-commerce app (React · Node · Express · MongoDB) with product search, cart, and secure checkout via Razorpay/Stripe. Real-time order tracking with Socket.io, role-based access (customer/admin) with JWT, Redis caching cutting page load time ~35%.
-
-### 📦 Enterprise Inventory & Order Management System
-Java/Spring Boot backend (Controller-Service-Repository architecture) managing inventory, orders, and suppliers, backed by MySQL via JPA/Hibernate. Spring Security + JWT role-based authorization, Dockerized, 80%+ test coverage with JUnit/Mockito.
-
-<br/>
-
-<p align="center"><code>avnish@github</code> ~ $ ./connect.sh</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/iavnishkaushik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Avnish-kaushik"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/avnish_codes"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:kaushikavi7002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
 </p>
 
-<p align="center"><sub>📍 Meerut, Uttar Pradesh, India</sub></p>
+[![Repo](https://img.shields.io/badge/Repository-View_Code-39D353?style=flat-square&logo=github&logoColor=white)](https://github.com/Avnish-kaushik/inventory-order-management-system)
+
+<br>
+
+## <code>$ ./contributions.sh</code>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Avnish-kaushik/Avnish-kaushik/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Avnish-kaushik&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avnish-kaushik&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&langs_count=8" height="165" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=Avnish-kaushik&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Avnish-kaushik&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" alt="Trophies" />
+
+</div>
+
+<br>
+
+## <code>$ curl leetcode.com/avnish_codes</code>
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/avnish_codes?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+
+</div>
+
+<br>
+
+## <code>$ ./connect.sh</code>
+
+<div align="center">
+
+Open to **Software Developer** roles and full-stack opportunities — reach out any time.
+
+<a href="https://linkedin.com/in/iavnishkaushik">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:kaushikavi7002@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_Email-39D353?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/avnish_codes">
+  <img src="https://img.shields.io/badge/See_my_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<br><br>
+
+<sub>Built with React.js, Node.js, Java & a lot of ☕ — thanks for stopping by.</sub>
+
+</div>
